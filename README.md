@@ -49,6 +49,42 @@ For developers and advanced users, this Kanban board also provides an API with e
 For API documentation and usage examples, please refer to the API documentation provided separately.
 
 For better understanding look out on the screenshots
+![photo_2023-09-03_15-33-35](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/659b1cb8-6074-482d-bdfa-da6a79a310d6)
+
+![photo_2023-09-03_15-33-39](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/04801f50-e633-49b8-a8d3-2cb8c35c0c9c)
+
+![photo_2023-09-03_15-33-40](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/7c54017c-ab63-45a5-a12e-937b0f923043)
+
+![photo_2023-09-03_15-48-41](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/0cca03fa-5d0d-4677-8997-b6809f7919af)
+
+![photo_2023-09-03_15-48-43](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/70b56eed-351f-4209-add9-c609b613b201)
+
+![photo_2023-09-03_15-48-44](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/8a0bfbea-37dc-4358-8f1c-fd47f2b80551)
+
+![photo_2023-09-03_15-48-45](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/eb648c79-293a-4d74-b61a-743d2bd6d07c)
+
+![photo_2023-09-03_15-48-46](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/d9a6714c-0003-464e-b4d6-06caf90fb17c)
+
+![photo_2023-09-03_15-33-42](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/dd7a7db9-b977-4dba-8e19-1f4d48e7133a)
+
+![photo_2023-09-03_15-33-43](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/988e5015-c99c-43c0-988d-c918f3470566)
+
+![photo_2023-09-03_15-33-44](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/9afab747-c550-4b84-8d27-17c053339a45)
+
+![photo_2023-09-03_15-33-45](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/86e7043b-08e2-446b-b6c0-1248c2aa38f7)
+
+![photo_2023-09-03_15-33-46](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/6a8333bd-49f7-40e7-bf52-60acee97a61d)
+
+![photo_2023-09-03_15-33-48](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/e4b8b800-3518-45a7-b2ae-9218edc5f7b0)
+
+![photo_2023-09-03_15-33-49](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/808a5fc2-1c8e-418e-abc5-a7d044484747)
+
+![photo_2023-09-03_15-33-50](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/214c2867-9b20-46ab-b53a-41189c058a08)
+
+![photo_2023-09-03_15-33-52](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/37e17190-c3d4-4a1c-980b-8a1522943078)
+
+![photo_2023-09-03_15-33-53](https://github.com/Atul88261/Kannan-Board-Task-Management/assets/142953887/cdbae355-1a48-4445-aa56-b1e1689a0eb4)
+
 
 
 Thank you for choosing the Kanban Board Task Management system. We hope it helps you stay organized and efficient in managing your tasks!
